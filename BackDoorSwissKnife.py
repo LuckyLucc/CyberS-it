@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
 Ethical Pentesting SwissKnife Toolkit
-Autore: [Il Tuo Nome]
-Data: [Data]
-Licenza: Solo per uso autorizzato
+Autore: [SqueezeMangroove]
+Data: [28072025]
+Licence: Personal Use ONLY
 """
 
 import os
